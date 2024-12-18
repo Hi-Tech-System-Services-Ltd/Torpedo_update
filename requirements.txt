@@ -1,0 +1,6 @@
+pyodbc
+opencv-python
+opencv-python-headless
+numpy
+requests
+ultralytics
